@@ -12,7 +12,7 @@ patientId,Gallstone Status
 38,0
 263,1
 302,1
-78,1
+78,0
 87,0
 13,0
 142,1
@@ -23,7 +23,7 @@ patientId,Gallstone Status
 243,1
 238,1
 85,0
-200,1
+200,0
 294,1
 106,1
 278,1
@@ -31,7 +31,7 @@ patientId,Gallstone Status
 236,1
 287,1
 215,1
-293,0
+293,1
 196,0
 99,0
 140,0
@@ -59,7 +59,7 @@ patientId,Gallstone Status
 286,1
 309,1
 71,0
-105,0
+105,1
 170,1
 51,0
 268,1
@@ -73,4 +73,4 @@ patientId,Gallstone Status
 58,0
 92,1
 175,1
-233,1
+233,0
